@@ -1,13 +1,5 @@
 [
   {
-    "tag": "p",
-    "innerHtml": "Warlord of Mars"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "Edgar Rice Burroughs"
-  },
-  {
     "tag": "hr",
     "innerHtml": ""
   },
@@ -5350,6 +5342,10 @@
   {
     "tag": "p",
     "innerHtml": "Before them all I drew my wife close to me and kissed her upon the lips."
+  },
+  {
+    "tag": "hr",
+    "innerHtml": ""
   },
   {
     "tag": "h3",
